@@ -1,0 +1,5 @@
+// Batch Command 
+// jenkinstest\.nuget\nuget.exe restore jenkinstest\jenkinstest.sln
+
+// VS  project
+// jenkinstest/jenkinstest/jenkinstest.csproj
